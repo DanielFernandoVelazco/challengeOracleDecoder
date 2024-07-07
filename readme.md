@@ -1,0 +1,1 @@
+El archivo de index.html se encuentra en la carpeta "pages"
